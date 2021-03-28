@@ -1,2 +1,0 @@
-# TokenStealer
-TokenStealer by Incyyy
